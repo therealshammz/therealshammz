@@ -71,7 +71,7 @@ Currently focused on:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=therealshammz&show_icons=true&theme=radical&hide_border=true&rank_icon=github&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=therealshammz&show_icons=true&theme=radical&hide_border=true&rank_icon=github&count_private=true"/>
   <img width="49%" src="https://streak-stats.demolab.com?user=therealshammz&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
