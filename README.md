@@ -10,7 +10,7 @@
 
 ### 🧠 About Me
 
-🎓 **B.Tech Cyber Security Student** • 19 year old
+🎓 **B.Tech Cyber Security Undergrad** • 19 year old
 
 I build **full-stack applications**, mess with **networks**, and enjoy bringing random ideas to reality — then automating them with **Python**, **Go**, and **Bash**.
 
@@ -21,7 +21,7 @@ Currently focused on:
 - 🤖 **AI-powered tools & automation**
 - 🗂️ **System automation & workflow optimization**
 
-> Curiosity-driven. Slightly obsessive. Aggressively organized.
+> Curiosity-driven. Slightly obsessive. Aggressively organized
 
 ---
 
