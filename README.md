@@ -10,7 +10,7 @@
 
 ### 🧠 About Me
 
-🎓 **B.Tech Cyber Security Undergrad** • 19 year old
+🎓 **B.Tech Cyber Security Undergrad** • 19
 
 I build **full-stack applications**, mess with **networks**, and enjoy bringing random ideas to reality — then automating them with **Python**, **Go**, and **Bash**.
 
