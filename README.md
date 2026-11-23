@@ -8,6 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/focus-security%20tooling-0ea5e9?style=flat-square" alt="Focus">
   <img src="https://img.shields.io/badge/stack-Go%20%C2%B7%20Python%20%C2%B7%20Flutter-22c55e?style=flat-square" alt="Stack">
+  <a href="mailto:ameer.amartey@gmail.com"><img src="https://img.shields.io/badge/open%20to-internships%20%26%20collaborations-22c55e?style=flat-square" alt="Open to internships and collaborations"></a>
 </p>
 
 ---
@@ -19,6 +20,12 @@ B.Tech Cyber Security undergrad. I build tools that make security work **observa
 Currently building **Malana**, a local-first malware analysis workstation (private while it stabilizes): static and dynamic detonation, interactive VM sessions, PID-level process correlation, PCAP evidence, cached threat intel, and MISP export.
 
 I care about systems that are useful without a cloud account, and about reports an analyst can actually defend.
+
+---
+
+### Open to
+
+I'm currently looking for **internships and collaborations** in security engineering, DFIR/detection, and local-first tooling. If you're building something in this space, reach out at [ameer.amartey@gmail.com](mailto:ameer.amartey@gmail.com).
 
 ---
 
@@ -68,5 +75,7 @@ I care about systems that are useful without a cloud account, and about reports 
   <a href="mailto:ameer.amartey@gmail.com"><img src="https://img.shields.io/badge/email-ameer.amartey%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/therealshammz"><img src="https://img.shields.io/badge/GitHub-therealshammz-181717?style=flat-square&logo=github" alt="GitHub"></a>
 </p>
+
+<p align="center"><b>Open to internships and collaborations</b> — email is the fastest way to reach me.</p>
 
 <p align="center"><i>Build systems. Break assumptions. Write down what happened. Repeat.</i></p>
