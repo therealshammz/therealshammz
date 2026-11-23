@@ -21,7 +21,7 @@ Currently building **Malana**, a local-first malware analysis workstation (priva
 
 Also building **AIRO**, a SOAR platform with deterministic playbooks, human-in-the-loop approvals, and a tamper-evident audit trail (private).
 
-CCYF™ certified (92%). I care about systems that are useful without a cloud account, and about reports an analyst can actually defend.
+I care about systems that are useful without a cloud account, and about reports an analyst can actually defend.
 
 ---
 
