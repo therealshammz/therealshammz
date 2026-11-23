@@ -28,10 +28,12 @@ I care about systems that are useful without a cloud account, and about reports 
 |---|---|---|
 | **[ReconX](https://github.com/therealshammz/reconx)** | Network reconnaissance and exploit staging in one static Go binary: 13 modules, CVE/EPSS/KEV enrichment, PoC staging, PDF/HTML/JSON/CSV reports, GUI viewer. | `Go` `CLI` `Security` |
 | **[SentinelClaw](https://github.com/therealshammz/SentinelClaw)** | Local defensive-security CLI: process/network/EVTX/PCAP analysis, SigmaHQ imports, incident correlation, MITRE mapping, HTML/JSON reports, optional local Qwen via Ollama. | `Python` `DFIR` |
-| **[SNET](https://github.com/therealshammz/SNET)** | DNS proxy with built-in DDoS mitigation: per-IP rate limiting, DNS attack detectors, L3/L4 flood detection, and optional gateway mode. | `Go` `Networking` |
+| **[SNET](https://github.com/therealshammz/SNET)** | Experimental DNS proxy with built-in DDoS mitigation: per-IP rate limiting, DNS attack detectors, L3/L4 flood detection, and optional gateway mode. | `Go` `Networking` |
 | **[StraK](https://github.com/therealshammz/strak)** | Offline Android activity and procrastination tracker: planned vs actual time, 0–100 scoring, habits, focus sessions. No accounts, no backend, no internet permission. | `Flutter` `SQLite` |
 | **[AegisAML](https://github.com/therealshammz/AegisAML)** | AML transaction anomaly detection: Isolation Forest, adversarial defense layer, dashboard, and precision/recall/ROC AUC evaluation. | `Python` `ML` |
 | **[Chicago Crime Intelligence Hub](https://github.com/therealshammz/crime-hub)** | Analytics over 8.5M+ crime records with Hadoop MapReduce, PySpark ML, FastAPI, and a Streamlit dashboard. | `Python` `Big Data` |
+
+> Security tooling here is for authorized testing, defensive work, and education.
 
 ---
 
