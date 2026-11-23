@@ -19,7 +19,9 @@ B.Tech Cyber Security undergrad. I build tools that make security work **observa
 
 Currently building **Malana**, a local-first malware analysis workstation (private while it stabilizes): static and dynamic detonation, interactive VM sessions, PID-level process correlation, PCAP evidence, cached threat intel, and MISP export.
 
-I care about systems that are useful without a cloud account, and about reports an analyst can actually defend.
+Also building **AIRO**, a SOAR platform with deterministic playbooks, human-in-the-loop approvals, and a tamper-evident audit trail (private).
+
+CCYF™ certified (92%). I care about systems that are useful without a cloud account, and about reports an analyst can actually defend.
 
 ---
 
@@ -34,11 +36,12 @@ I'm currently looking for **internships and collaborations** in security enginee
 | Project | What it does | Stack |
 |---|---|---|
 | **[ReconX](https://github.com/therealshammz/reconx)** | Network reconnaissance and exploit staging in one static Go binary: 13 modules, CVE/EPSS/KEV enrichment, PoC staging, PDF/HTML/JSON/CSV reports, GUI viewer. | `Go` `CLI` `Security` |
-| **[SentinelClaw](https://github.com/therealshammz/SentinelClaw)** | Local defensive-security CLI: process/network/EVTX/PCAP analysis, SigmaHQ imports, incident correlation, MITRE mapping, HTML/JSON reports, optional local Qwen via Ollama. | `Python` `DFIR` |
 | **[SNET](https://github.com/therealshammz/SNET)** | Experimental DNS proxy with built-in DDoS mitigation: per-IP rate limiting, DNS attack detectors, L3/L4 flood detection, and optional gateway mode. | `Go` `Networking` |
 | **[StraK](https://github.com/therealshammz/strak)** | Offline Android activity and procrastination tracker: planned vs actual time, 0–100 scoring, habits, focus sessions. No accounts, no backend, no internet permission. | `Flutter` `SQLite` |
 | **[AegisAML](https://github.com/therealshammz/AegisAML)** | AML transaction anomaly detection: Isolation Forest, adversarial defense layer, dashboard, and precision/recall/ROC AUC evaluation. | `Python` `ML` |
 | **[Chicago Crime Intelligence Hub](https://github.com/therealshammz/crime-hub)** | Analytics over 8.5M+ crime records with Hadoop MapReduce, PySpark ML, FastAPI, and a Streamlit dashboard. | `Python` `Big Data` |
+
+I also contribute to **[SentinelClaw](https://github.com/splaz-sudo/SentinelClaw)**, a local defensive-security CLI for process, network, EVTX, and PCAP analysis.
 
 > Security tooling here is for authorized testing, defensive work, and education.
 
